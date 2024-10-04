@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-color {
+    color: rgb(4 78 131);
+}
+
+.text-custom-blue {
+    color: rgb(46 182 232);
+}
+
+.shadow-custom {
+    box-shadow: 0px 5px 12px 2px black;
+}
